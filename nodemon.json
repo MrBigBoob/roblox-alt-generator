@@ -1,0 +1,7 @@
+{
+    "verbose": true,
+    "ignore": [
+        "database.json",
+        "roblox-gen.service"
+    ]
+}
