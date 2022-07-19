@@ -13,7 +13,6 @@ You can use these accounts for exploiting or botting.
 Node.JS and yarn
 
 ## Setup
-[Setup Guide here](https://github.com/jluims/RobloxGen/wiki)
 
 Setup the configuration:
 
